@@ -1,0 +1,26 @@
+{
+  "name": "estevan-montoya-homepage",
+  "version": "0.0.1",
+  "description": "Homepage for Church Planter Evangelist Estevan Montoya",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start apps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevanmontoya/estevanmontoyahome.git"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "Estevan Montoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevanmontoya/estevanmontoyahome/issues"
+  },
+  "homepage": "https://github.com/estevanmontoya/estevanmontoyahome#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "^2.0.0-beta11"
+  }
+}
